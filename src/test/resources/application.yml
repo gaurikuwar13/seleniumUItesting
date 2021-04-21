@@ -1,0 +1,3 @@
+browser: Firefox
+hostname: https://webdriver.io/
+driverPath: /Users/gkulkarni/SWDev/lib/seleniumdrivers/firefox/geckodriver
