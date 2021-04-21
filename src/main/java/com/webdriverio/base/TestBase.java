@@ -27,7 +27,7 @@ public class TestBase {
     public void before() throws IOException {
         this.testConfiguration = new TestConfiguration();
         //Analyze why FIle does not accept the relative path
-        File file = new File("/Users/gkulkarni/OneDrive - ETQ, LLC/seleniumUItesting/src/test/resources/application.yml");
+        File file = new File("/src/test/resources/application.yml");
         ObjectMapper objectMapper = new ObjectMapper(new YAMLFactory());
         TestConfiguration config = objectMapper.readValue(file, TestConfiguration.class);
         System.out.println("Test config info " + config.getBrowser());
