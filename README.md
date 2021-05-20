@@ -1,7 +1,7 @@
 # seleniumUItesting
 sample UI testing using selenium with java and gradle
 
-## Attibution Credits :- https://webdriver.io/
+## Attribution Credits :- https://webdriver.io/
 
 # Project details
   <li> Scripting Language :- Java 11
@@ -13,7 +13,7 @@ sample UI testing using selenium with java and gradle
 ## About this project:-
 This a sample project to to test few functionalities using selenium with Java and Junit test framework.
 A test execution html report is generated in reports folders. 
-The proeject includes folowing test cases:-
+The project includes folowing test cases:-
   <li> Parameterised Test cases to verify the option under menu list.
   <li> Test case to verify navigation within tabs
   <li> Paremeterised test cases to search text and select the search options based type of section.
