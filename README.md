@@ -3,12 +3,16 @@ sample UI testing using selenium with java and gradle
 
 ## Attribution Credits :- https://webdriver.io/
 
-# Project details
+# Project details/ requirements
   <li> Scripting Language :- Java 11
   <li> BuildTool :- gradle
   <li> Testing Framework :- Junit5
   <li> Test configuration setup :- yaml(Jackson to read the yml)
   <li> User has to download the selenium driver suitable for their system requirement
+    
+## How to execute test cases
+   User has to be within the project folder and execute the following command
+  <p>./gradlew test
   
 ## About this project:-
 This a sample project to to test few functionalities using selenium with Java and Junit test framework.
